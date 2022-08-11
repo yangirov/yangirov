@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Emil, fullstack developer who loves to solve interesting problems. So, in short – <p>I ❤️ JavaScript and .NET</p>.
+I am Emil, fullstack developer who loves to solve interesting problems. I ❤️ JavaScript and .NET
 
 <b>Frontend</b>:
 - I can develop apps with Vue, Angular and React. 

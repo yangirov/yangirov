@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Emil, fullstack developer who loves to solve interesting problems. So, in short:
+I am Emil, fullstack developer who loves to solve interesting problems. So, in short – <p>I ❤️ JavaScript and .NET</p>.
 
 <b>Frontend</b>:
 - I can develop apps with Vue, Angular and React. 
@@ -8,13 +8,11 @@ I am Emil, fullstack developer who loves to solve interesting problems. So, in s
 
 <b>Backend</b>:
 - My main languages is C# and TypeScript, but I am happy to use F# and Go.
-- Databases: I know how to design, normalize the database schema, read plans and optimize queries (PostgreSQL, Oracle). I know NoSQL a little (MongoDB / CosmosDB).
+- I know how to design, normalize the database schema, read plans and optimize queries (PostgreSQL, Oracle). I know NoSQL a little (MongoDB / CosmosDB).
 
 <b>DevOps</b>:
 - I have experience in CI/CD with Vercel, TeamCity, Octopus, etc.
 - Configure system monitoring in Zabbix, PRTG, etc.
-
-<p>I ❤️ JavaScript and .NET</p>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />

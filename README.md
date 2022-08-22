@@ -8,7 +8,7 @@ I am Emil, fullstack developer who loves to solve interesting problems. I ❤️
 
 <b>Backend</b>:
 - My main languages is C# and TypeScript, but I am happy to use F# and Go.
-- I know how to design, normalize the database schema, read plans and optimize queries (PostgreSQL, Oracle). I know NoSQL a little (MongoDB / CosmosDB).
+- I know how to design, normalize the database schema, read plans and optimize queries (PostgreSQL, Oracle). I know NoSQL a little.
 
 <b>DevOps</b>:
 - I have experience in CI/CD with Vercel, TeamCity, Octopus, etc.

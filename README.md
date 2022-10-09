@@ -24,4 +24,4 @@ I am Emil, fullstack developer who loves to solve interesting problems. I ❤️
   <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
 </p>
 
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yangirov&show_icons=true&hide=issues&theme=auto">
+<!--<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yangirov&show_icons=true&hide=issues&theme=auto">-->

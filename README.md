@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Emil, fullstack developer who loves to solve interesting problems. I ❤️ JavaScript and .NET
+I'm developer who loves to solve interesting problems. I ❤️ JavaScript and .NET
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
